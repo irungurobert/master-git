@@ -1,6 +1,9 @@
 h1{
-  color: yellow;
+  color: pink;
 }
 p{
   color: orange;
+}
+.firstTodo{
+  color: black;
 }
